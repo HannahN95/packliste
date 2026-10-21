@@ -1,9 +1,8 @@
 {
-  "id": "/packliste/?app=packliste-2",
   "name": "Packliste",
   "short_name": "Packliste",
   "description": "Packlisten aus Vorlagen erstellen und abhaken",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f3ee",
